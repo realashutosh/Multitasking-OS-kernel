@@ -71,12 +71,7 @@ This project is a **multitasking operating system kernel** built from scratch us
 
 ## Notes
 
-- This project is for **educational purposes** and not intended as a production OS.
-- For best results, run inside QEMU (tested on Linux/macOS).
-- Windows users can use WSL2 with QEMU for building and testing.
+- This project is a result of my learning from udemy course Multithreaded operating system kernel by Daniel Mccarthy
 
----
 
-## License
 
-This project is open-source and free to use, modify, and distribute for research and educational purposes.
